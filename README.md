@@ -1,4 +1,5 @@
-# Java-Calculadora-UI-
+# Java-Calculadora-Interfaces-swing-
+
 en este proyecto estuve probando distintas formas de agregar alguna interfaz a un programa simple como puede ser esta calculadora
 
 en este aprendi a usar Swing de java, libreria que maneja las interfaces en java.
